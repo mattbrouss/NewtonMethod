@@ -1,0 +1,126 @@
+iter   1: step= 1.00, fval = -1.07965e-01 
+iter   2: step= 1.00, fval = 1.91680e-01 
+iter   3: step= 1.00, fval = 8.46686e-01 
+iter   4: step= 1.00, fval = 1.44814e+00 
+iter   5: step= 1.00, fval = 1.59009e+00 
+iter   6: step= 1.00, fval = 1.57667e+00 
+iter   7: step= 1.00, fval = 1.55133e+00 
+iter   8: step= 1.00, fval = 1.56759e+00 
+iter   9: step= 1.00, fval = 1.71626e+00 
+iter  10: step= 1.00, fval = 1.85681e+00 
+iter  11: step= 1.00, fval = 1.87432e+00 
+Stop.
+Outer iter   1: Outer step= 2.00, fval = 1.87432e+00 
+iter   1: step= 1.00, fval = 4.87629e-01 
+iter   2: step= 1.00, fval = 6.61154e-01 
+iter   3: step= 1.00, fval = 6.82431e-01 
+Stop.
+Outer iter   2: Outer step= 4.00, fval = 6.82431e-01 
+iter   1: step= 0.80, fval = 8.70268e-02 
+iter   2: step= 1.00, fval = 8.44881e-02 
+iter   3: step= 1.00, fval = 8.65135e-02 
+Stop.
+Outer iter   3: Outer step= 8.00, fval = 8.65135e-02 
+iter   1: step= 0.80, fval = -2.30586e-01 
+iter   2: step= 1.00, fval = -2.18008e-01 
+iter   3: step= 1.00, fval = -2.14831e-01 
+Stop.
+Outer iter   4: Outer step=16.00, fval = -2.14831e-01 
+iter   1: step= 0.80, fval = -3.87233e-01 
+iter   2: step= 1.00, fval = -3.72187e-01 
+iter   3: step= 1.00, fval = -3.68012e-01 
+iter   4: step= 1.00, fval = -3.67744e-01 
+Stop.
+Outer iter   5: Outer step=32.00, fval = -3.67744e-01 
+iter   1: step= 0.64, fval = -4.44519e-01 
+iter   2: step= 1.00, fval = -4.45543e-01 
+iter   3: step= 1.00, fval = -4.45021e-01 
+Stop.
+Outer iter   6: Outer step=64.00, fval = -4.45021e-01 
+iter   1: step= 0.64, fval = -4.86391e-01 
+iter   2: step= 1.00, fval = -4.83971e-01 
+iter   3: step= 1.00, fval = -4.83414e-01 
+Stop.
+Outer iter   7: Outer step=128.00, fval = -4.83414e-01 
+iter   1: step= 0.64, fval = -5.04950e-01 
+iter   2: step= 1.00, fval = -5.02767e-01 
+iter   3: step= 1.00, fval = -5.02125e-01 
+Stop.
+Outer iter   8: Outer step=256.00, fval = -5.02125e-01 
+iter   1: step= 0.64, fval = -5.12911e-01 
+iter   2: step= 1.00, fval = -5.11604e-01 
+iter   3: step= 1.00, fval = -5.11131e-01 
+iter   4: step= 1.00, fval = -5.11100e-01 
+Stop.
+Outer iter   9: Outer step=512.00, fval = -5.11100e-01 
+iter   1: step= 0.64, fval = -5.16432e-01 
+iter   2: step= 1.00, fval = -5.15721e-01 
+iter   3: step= 1.00, fval = -5.15445e-01 
+iter   4: step= 1.00, fval = -5.15422e-01 
+Stop.
+Outer iter  10: Outer step=1024.00, fval = -5.15422e-01 
+iter   1: step= 0.64, fval = -5.18034e-01 
+iter   2: step= 1.00, fval = -5.17663e-01 
+iter   3: step= 1.00, fval = -5.17520e-01 
+iter   4: step= 1.00, fval = -5.17508e-01 
+Stop.
+Outer iter  11: Outer step=2048.00, fval = -5.17508e-01 
+iter   1: step= 0.64, fval = -5.18791e-01 
+iter   2: step= 1.00, fval = -5.18601e-01 
+iter   3: step= 1.00, fval = -5.18530e-01 
+iter   4: step= 1.00, fval = -5.18524e-01 
+Stop.
+Outer iter  12: Outer step=4096.00, fval = -5.18524e-01 
+iter   1: step= 0.64, fval = -5.19158e-01 
+iter   2: step= 1.00, fval = -5.19061e-01 
+iter   3: step= 1.00, fval = -5.19025e-01 
+iter   4: step= 1.00, fval = -5.19022e-01 
+Stop.
+Outer iter  13: Outer step=8192.00, fval = -5.19022e-01 
+iter   1: step= 0.64, fval = -5.19337e-01 
+iter   2: step= 1.00, fval = -5.19289e-01 
+iter   3: step= 1.00, fval = -5.19271e-01 
+iter   4: step= 1.00, fval = -5.19269e-01 
+Stop.
+Outer iter  14: Outer step=16384.00, fval = -5.19269e-01 
+iter   1: step= 0.64, fval = -5.19426e-01 
+iter   2: step= 1.00, fval = -5.19402e-01 
+iter   3: step= 1.00, fval = -5.19393e-01 
+iter   4: step= 1.00, fval = -5.19392e-01 
+Stop.
+Outer iter  15: Outer step=32768.00, fval = -5.19392e-01 
+iter   1: step= 0.64, fval = -5.19470e-01 
+iter   2: step= 1.00, fval = -5.19458e-01 
+iter   3: step= 1.00, fval = -5.19454e-01 
+iter   4: step= 1.00, fval = -5.19453e-01 
+Stop.
+Outer iter  16: Outer step=65536.00, fval = -5.19453e-01 
+iter   1: step= 0.64, fval = -5.19493e-01 
+iter   2: step= 1.00, fval = -5.19486e-01 
+iter   3: step= 1.00, fval = -5.19484e-01 
+iter   4: step= 1.00, fval = -5.19484e-01 
+Stop.
+Outer iter  17: Outer step=131072.00, fval = -5.19484e-01 
+iter   1: step= 0.64, fval = -5.19504e-01 
+iter   2: step= 1.00, fval = -5.19500e-01 
+iter   3: step= 1.00, fval = -5.19499e-01 
+iter   4: step= 1.00, fval = -5.19499e-01 
+Stop.
+Finished.
+Optimal x=
+0.000012
+0.000020
+0.452384
+0.067742
+1.241375
+Optimal F(x)=-0.519499
+Number of outer iterations=18.000000
+Total Newton Steps=91.000000 
+Compare to 
+Yalmip Optimal x=
+-0.000000
+-0.000000
+0.452368
+0.067679
+1.241434
+Yalmip Optimal fval=-0.519515
